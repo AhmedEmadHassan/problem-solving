@@ -22,10 +22,11 @@ Solution Link:         [C++](1.%20Two%20Sum/main.cpp)
 
 ## 📊 Problem List
 
-| #   | Problem         | Difficulty                                             | Topic       | Problem                                                | Solution                                 | Notes | Status                                                           |
-| --- | --------------- | ------------------------------------------------------ | ----------- | ------------------------------------------------------ | ---------------------------------------- | ----- | ---------------------------------------------------------------- |
-| 1   | Two Sum         | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Array       | [Link](https://leetcode.com/problems/two-sum/)         | [C++](1.%20Two%20Sum/main.cpp)           |       | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
-| 2   | Add Two Numbers | ![Medium](https://img.shields.io/badge/Medium-yellow)  | Linked List | [Link](https://leetcode.com/problems/add-two-numbers/) | [C++](2.%20Add%20Two%20Numbers/main.cpp) |       | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
+| #   | Problem                                        | Difficulty                                             | Topic                      | Problem                                                                               | Solution                                                                    | Notes             | Status                                                           |
+| --- | ---------------------------------------------- | ------------------------------------------------------ | -------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------- |
+| 1   | Two Sum                                        | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Array                      | [Link](https://leetcode.com/problems/two-sum/)                                        | [C++](1.%20Two%20Sum/main.cpp)                                              |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
+| 2   | Add Two Numbers                                | ![Medium](https://img.shields.io/badge/Medium-yellow)  | Linked List                | [Link](https://leetcode.com/problems/add-two-numbers/)                                | [C++](2.%20Add%20Two%20Numbers/main.cpp)                                    |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
+| 3   | Longest Substring Without Repeating Characters | ![Medium](https://img.shields.io/badge/Medium-yellow)  | Hash Table, Sliding Window | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](3.%20Longest%20Substring%20Without%20Repeating%20Characters/main.cpp) | used unorderedset | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
 
 ---
 
@@ -42,4 +43,4 @@ Solution Link:         [C++](1.%20Two%20Sum/main.cpp)
 
 | Easy | Medium | Hard |
 | ---- | ------ | ---- |
-| 1    | 1      | 0    |
+| 1    | 2      | 0    |
