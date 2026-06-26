@@ -29,6 +29,7 @@ Solution Link:         [C++](problems/1.%20Two%20Sum/main.cpp)
 | 3   | Longest Substring Without Repeating Characters | ![Medium](https://img.shields.io/badge/Medium-yellow)  | Hash Table, Sliding Window                          | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters/main.cpp) | Used unorderedset | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
 | 4   | Median of Two Sorted Arrays                    | ![Hard](https://img.shields.io/badge/Hard-red)         | Mid Level, Array, Binary Search, Divide and Conquer | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/)                    | [C++](problems/4.%20Median%20of%20Two%20Sorted%20Arrays/main.cpp)                    | Used multiset     | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
 | 5   | Longest Palindromic Substring                  | ![Medium](https://img.shields.io/badge/Medium-yellow)  | Two Pointers, String, Dynamic Programming           | [Link](https://leetcode.com/problems/longest-palindromic-substring/)                  | [C++](problems/5.%20Longest%20Palindromic%20Substring/main.cpp)                      |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
+| 6   | Zigzag Conversion                              | ![Medium](https://img.shields.io/badge/Medium-yellow)  | String                                              | [Link](https://leetcode.com/problems/zigzag-conversion/)                              | [C++](problems/6.%20Zigzag%20Conversion/main.cpp)                                    |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
 
 ---
 
@@ -45,4 +46,4 @@ Solution Link:         [C++](problems/1.%20Two%20Sum/main.cpp)
 
 | Easy | Medium | Hard |
 | ---- | ------ | ---- |
-| 1    | 3      | 1    |
+| 1    | 4      | 1    |
