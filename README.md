@@ -32,7 +32,8 @@ Solution Link:         [C++](problems/1.%20Two%20Sum/main.cpp)
 | 6   | Zigzag Conversion                              | ![Medium](https://img.shields.io/badge/Medium-yellow)  | String                                              | [Link](https://leetcode.com/problems/zigzag-conversion/)                              | [C++](problems/6.%20Zigzag%20Conversion/main.cpp)                                    |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
 | 27  | Remove Element                                 | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Array, Two Pointers, Sorting                        | [Link](https://leetcode.com/problems/remove-element/)                                 | [C++](problems/27.%20Remove%20Element/main.cpp)                                      |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
 | 88  | Merge Sorted Array                             | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Array, Two Pointers, Sorting                        | [Link](https://leetcode.com/problems/merge-sorted-array/)                             | [C++](problems/88.%20Merge%20Sorted%20Array/main.cpp)                                |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
-| 125 | Valid Palindrome                               | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Two Pointers, String                                | [Link](https://leetcode.com/problems/valid-palindrome/)                               | [C++](problems/125.%20Valid%20Palindrome/main.cpp)                                   |                   | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
+| 125 | Valid Palindrome                               | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Two Pointers, String                                | [Link](https://leetcode.com/problems/valid-palindrome/)                               | [C++](problems/125.%20Valid%20Palindrome/main.cpp)                                   | Two Pointers      | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
+| 167 | Two Sum II - Input Array Is Sorted             | ![Medium](https://img.shields.io/badge/Medium-yellow)  | Array, Two Pointers, Binary Search                  | [Link](https://leetcode.com/problems/valid-palindrome/)                               | [C++](problems/125.%20Valid%20Palindrome/main.cpp)                                   | Two Pointers      | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
 
 ---
 
@@ -49,4 +50,4 @@ Solution Link:         [C++](problems/1.%20Two%20Sum/main.cpp)
 
 | Easy | Medium | Hard |
 | ---- | ------ | ---- |
-| 4    | 4      | 1    |
+| 4    | 5      | 1    |
